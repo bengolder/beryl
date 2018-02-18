@@ -1,3 +1,6 @@
-# beryl
+# Beryl Gulick's Art Pages
 
-A website of my grandma Beryl's art and other memories
+## [Pottery, Art, & Miscellaneous Items](berylartpottery/)
+
+## [Outtakes](berylouttakes/)
+
