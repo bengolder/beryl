@@ -1,6 +1,7 @@
+
 # Beryl Gulick's Art Pages
 
-## [Pottery, Art, & Miscellaneous Items](berylartpottery/)
+- [Pottery, Art, & Miscellaneous Items](berylartpottery/)
 
-## [Outtakes](berylouttakes/)
+- [Outtakes](berylouttakes/)
 
